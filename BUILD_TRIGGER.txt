@@ -1,1 +1,1 @@
-Trigger GitHub Actions build for Tennis Quant Android.
+Trigger GitHub Actions build for Tennis Quant Android free-live mode.
